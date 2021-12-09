@@ -1,0 +1,1 @@
+<img {{ $attributes }} src="https://cocopesa.com/wp-content/uploads/2019/08/ferreteria_full.png" alt=""/>
